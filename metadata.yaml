@@ -17,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3266
     wikipedia: http://en.wikipedia.org/wiki/George_Newnes
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30443#The-Strand-Magazine-Volume-V-Issue-29-May-1893An-Illustrated-Monthly
 gutenberg_bookshelf: The Strand Magazine
 gutenberg_issued: '2009-11-10'
 gutenberg_type: Text
